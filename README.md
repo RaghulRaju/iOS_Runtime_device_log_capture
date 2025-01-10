@@ -6,12 +6,10 @@ Install iTunes latest version
 
 # Steps to be followed
 1. Go to iOS_Live_Log_Capture folder
-2. Create a shortcut for Apple (windows batch file) and move it to desktop
-3. Create a shortcut for iOS_Logs folder and move it to desktop
-4. Connect iPhone to PC 
-5. Go to desktop and double click on Apple shortcut file from step 2 to run it
-6. Press enter to capture iOS logs and reproduce the issue
-7. close the command window to stop capturing the log
-8. The log file will be saved in iOS_Logs folder from step 3
+2. Connect iPhone to PC 
+3. Double click on Apple window batch file available in the folder. 
+4. Press enter to capture iOS logs and reproduce the issue
+5. close the command window to stop capturing the log
+6. The log file will be saved in iOS_Logs folder. 
 
 Disclaimer: This script was not created or owned by me. I found it to be an efficient tool for saving time and space during my testing process. I believe many others will find it equally beneficial and helpful in their work.
