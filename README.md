@@ -5,7 +5,7 @@ This package includes a BAT file and associated libraries that enable you to ext
 Install iTunes latest version
 
 # Steps to be followed
-1. Extract the Zip file to a folder and go to iOS_Live_Log_Capture folder
+1. Go to iOS_Live_Log_Capture folder
 2. Create a shortcut for Apple (windows batch file) and move it to desktop
 3. Create a shortcut for iOS_Logs folder and move it to desktop
 4. Connect iPhone to PC 
